@@ -1,2 +1,2 @@
 my portfolio
-https://krishilmodh.github.io/portfolio1/
+https://krishilmodh.github.io/main-portfolio/
